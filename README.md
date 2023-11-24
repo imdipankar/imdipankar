@@ -10,7 +10,7 @@ The blog is organized into different HTML pages, each representing a post or a s
 
 To view the blog locally or make modifications, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/blog.git`
+1. Clone the repository: `git clone https://github.com/imdipankar/imdipankar`
 2. Open the HTML files in your preferred text editor or integrated development environment (IDE).
 3. Explore and modify the content to suit your preferences.
 4. Open the HTML files in a web browser to see the changes.
